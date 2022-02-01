@@ -1,5 +1,5 @@
 # Software-Engineer
-Personal Repository showcasing "sdstaley/UT9_HERMES" group repository.
+Personal Repository explaining and showcasing "sdstaley/UT9_HERMES" group repository.
 
 This project for CSC 4350 Software Engineering course challenged a group of 5 students to develop a messaging service app designed for a user to have a platform that enables them to send a message to a recipient across all social media/messaging services, which may include: Facebook, Instagram, Snapchat, and IMessenger. 
 
