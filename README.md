@@ -11,6 +11,7 @@ To provide my classmates and I a role-play environment where we get to experienc
 - Collaboration and communication with students who were not in the United States.
 - Allocation of balanced workload amongst all students.
 - Computer specifications for some students fell below the minimum requirements for specific software applications.
+- Learning and applying firebase
 
 
 
